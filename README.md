@@ -41,7 +41,7 @@ MarkDown 내용 정리
 Click [My git hub](https://github.com/Hodawn/AI_Project_2026_01_3B)
 
 <!--Image-->
-![Image](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA1MTZfMTQg%2FMDAxNTU4MDA5NDc4MDcz.taZtpsUuCcxd5wTFd5PxghOG0jzzoP2NcXK9MAacXH0g.WA_uSqwapqUH9VpO19PyYo-ONSbV_Xj9jT4VmeTENt4g.PNG.kmu2333%2F255._%25BC%25BA%25B3%25B2_%25BD%25C5%25B1%25B8%25B4%25EB_%25B7%25CE%25B0%25ED.png&type=sc960_832)
+![Image](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5697%2F2020%2F06%2F08%2F0000030719_001_20200608153433004.jpg&type=sc960_832)
 
 <!--Table-->
 |Header|Description|Other|
