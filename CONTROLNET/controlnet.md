@@ -20,3 +20,25 @@
 ## mlsd
 ![Image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/d35a967689ab926c54c03ccb565b3614bc65c9db/CONTROLNET/Mlsd/image%20(1).png)
 
+
+# ControlNet
+## NormalMap
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/NormalMap/00017-2930487181.png)
+
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/NormalMap/00023-427486903.png)
+
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/NormalMap/image%20(6).png)
+
+## LineArt
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/LineArt/00009-2133535398.png)
+
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/LineArt/00014-2688669383.png)
+
+## Scribble
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/Scribble/00015-2778760714.png)
+
+## Shuffle
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/Shuffle/00016-2713084330.png)
+
+## SoftEdge
+![image](https://raw.githubusercontent.com/Hodawn/AI_Project_2026_01_3B/0f07ca79f168280949bca9506fd5ffb7c96ce74e/CONTROLNET/SoftEdge/00004-224740962.png)
